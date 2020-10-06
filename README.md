@@ -1,1 +1,1 @@
-# convert_Ciryllic_to_Latin
+# Convert Ciryllic to Latin
